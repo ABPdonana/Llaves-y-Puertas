@@ -9,7 +9,6 @@ public class Principal {
         System.out.println(puerta1.poner(llave1).abrir());
         puerta1.cerrar();
         System.out.println(puerta1.poner(llave2).abrir());
-        puerta1.cerrar();
         System.out.println(puerta1.abrir());
     }
 }
